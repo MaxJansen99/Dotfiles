@@ -1,0 +1,5 @@
+[user]
+	name = Max Jansen
+	email = mail@maxjansen.net
+[push]
+	autoSetupRemote = true
